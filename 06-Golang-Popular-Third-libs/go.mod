@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/prometheus/client_golang v1.12.2
+	github.com/robfig/cron/v3 v3.0.1
 	github.com/satori/go.uuid v1.2.0
 )
 
